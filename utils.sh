@@ -6,8 +6,8 @@
 
 # Update versions as necessary
 export CWS_VER='2.1.0-pre.3'  # update this each CWS release
-export CAMUNDA_VER='7.13.0'
-export TOMCAT_VER='9.0.33'
+export CAMUNDA_VER='7.15.0'
+export TOMCAT_VER='9.0.43'
 export LOGSTASH_VER='7.9.0'
 
 # Prints the provided string, tagging with the script that called it
